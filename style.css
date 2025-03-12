@@ -1,0 +1,82 @@
+h1 {
+  color: #4b31eb;
+  text-align: center;
+  font-family: 'Georgia', serif;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #4b31eb;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  font-size: 25px;
+  margin-top: 0px;
+}
+
+body {
+  background-color: #cc31f5;
+  margin: 10px;
+  padding: 5px;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+p {
+  color: white;
+  text-align: left;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+.website-navigator-header {
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+
+nav {
+  color: white;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-top: 0px;
+}
+
+.home-return-link {
+  color: white;
+  text-align: right;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+dl {
+  color: white;
+  text-align: left;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+dd {
+  margin-bottom: 15px;
+}
+
+#adobo-dish-image {
+  margin-left: 0px;
+}
+
+#fries-dish-image {
+  display: block;
+  margin: auto;
+}
+
+#vodka-pasta-image {
+  margin-right: 0;
+}
+
+#cooking-description {
+  text-align: center;
+}
